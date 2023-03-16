@@ -1,7 +1,5 @@
 <script setup>
 import RenderIcon from "./components/RenderIcon.vue";
-
-const icons = ["CubeIcon", "BeakerIcon", "BugAntIcon", "GlobeAmericasIcon"];
 </script>
 
 <template>
